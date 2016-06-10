@@ -1,0 +1,8 @@
+name: SkyBlock
+main: me.skylordjay_.skyblock.SkyBlock
+version: 1.0
+author: SkyLordJay_
+description: Type /island to get started! This SkyBlock plugin was made in a speed code series on the AwesomePowerCat Youtube channel.
+website: https://www.youtube.com/c/awesomepowercat
+commands:
+  island:
